@@ -1,0 +1,13 @@
+C:\Users\MaxY\Documents\Visual Studio 2015\Projects\ChordBuilder\ChordBuilder\bin\Debug\ChordBuilder.exe
+C:\Users\MaxY\Documents\Visual Studio 2015\Projects\ChordBuilder\ChordBuilder\bin\Debug\ChordBuilder.pdb
+C:\Users\MaxY\Documents\Visual Studio 2015\Projects\ChordBuilder\ChordBuilder\obj\Debug\ChordBuilder.Properties.Resources.resources
+C:\Users\MaxY\Documents\Visual Studio 2015\Projects\ChordBuilder\ChordBuilder\obj\Debug\ChordBuilder.csproj.GenerateResource.Cache
+C:\Users\MaxY\Documents\Visual Studio 2015\Projects\ChordBuilder\ChordBuilder\obj\Debug\ChordBuilder.exe
+C:\Users\MaxY\Documents\Visual Studio 2015\Projects\ChordBuilder\ChordBuilder\obj\Debug\ChordBuilder.pdb
+C:\Users\MaxY\Documents\Visual Studio 2015\Projects\ChordBuilder\ChordBuilder\obj\Debug\ChordBuilder.Resources.ToliyGuitarSchoolHelper.ChordBuilder.resources
+C:\Users\MaxY\Documents\Visual Studio 2015\Projects\ChordBuilder\ChordBuilder\obj\Debug\ChordBuilder.Resources.ToliyGuitarSchoolHelper.NameChord.resources
+C:\Users\MaxY\Documents\Visual Studio 2015\Projects\ChordBuilder\ChordBuilder\obj\Debug\ChordBuilder.Resources.ToliyGuitarSchoolHelper.Properties.Resources.resources
+C:\Users\MaxY\Documents\Visual Studio 2015\Projects\ChordBuilder\ChordBuilder\obj\Debug\ToliyGuitarSchoolHelper.ChordBuilder.resources
+C:\Users\MaxY\Documents\Visual Studio 2015\Projects\ChordBuilder\ChordBuilder\obj\Debug\ToliyGuitarSchoolHelper.NameChord.resources
+C:\Users\MaxY\Documents\Visual Studio 2015\Projects\ChordBuilder\ChordBuilder\bin\Debug\ChordBuilder.exe.config
+C:\Users\MaxY\Documents\Visual Studio 2015\Projects\ChordBuilder\ChordBuilder\obj\Debug\ChordBuilder.csprojResolveAssemblyReference.cache
